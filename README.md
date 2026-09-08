@@ -3,8 +3,9 @@
 Computer Programming & Analysis Student @ <i>Humber Polytechnic</i> <br>
 Specializing in Web & Mobile Application Development | UX/UI Design & Brand Identity
 
-I'm interested in game development and love combining programming, design, and art. I'm currently developing my skills in these areas while working toward creating games of my own.
-##
+I'm interested in game development and love combining programming, design, and art. I'm building my skills across these areas with the goal of creating games and interactive experiences of my own.
+
+## Tech Stack
 ### Programming Languages & Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -29,6 +30,7 @@ I'm interested in game development and love combining programming, design, and a
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white&style=for-the-badge)
+##
 
 ### Fun Fact
 I love hiking and plant identification (haven't eaten anything poisonous yet...).
