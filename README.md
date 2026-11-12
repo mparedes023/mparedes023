@@ -12,7 +12,7 @@ I'm interested in game development and love combining programming, design, and a
 ![Python](https://img.shields.io/badge/Python-FF2DA6?logo=python&logoColor=FFFFFF&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-9B5DE5?logo=mysql&logoColor=FFFFFF&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-FF4D9D?logo=git&logoColor=FFFFFF&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?logo=github&logoColor=FFFFFF&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-3B185F?logo=github&logoColor=FFFFFF&style=for-the-badge)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-EF4B9B?logo=html5&logoColor=FFFFFF&style=for-the-badge)
@@ -24,9 +24,9 @@ I'm interested in game development and love combining programming, design, and a
 
 ### Design & Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-FF2DA6?logo=figma&logoColor=FFFFFF&style=for-the-badge)
-![Krita](https://img.shields.io/badge/Krita-B967FF?logo=krita&logoColor=FFFFFF&style=for-the-badge)
+![Krita](https://img.shields.io/badge/Krita-3B185F?logo=krita&logoColor=FFFFFF&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-D946EF?logo=canva&logoColor=FFFFFF&style=for-the-badge)
-![CapCut](https://img.shields.io/badge/CapCut-581C87?logo=capcut&logoColor=FF6EC7&style=for-the-badge)
+![CapCut](https://img.shields.io/badge/CapCut-D864A9?logo=capcut&logoColor=FF6EC7&style=for-the-badge)
 ##
 
 ### Fun Fact
